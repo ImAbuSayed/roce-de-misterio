@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de misterio, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Roce de misterio, Vol. 2** (roce-de-misterio-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T21:27:32.146210 | `v1` | `d3f6ac632c834a2c8eec6f2825ec231f458ab7fc8da40cb19415d35406437993` | `3afd3e4f78e12235f7266dfc35879f5adad3194f46695ad77d115892ed92ced0` | `2026-06-20_roce-de-misterio-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
